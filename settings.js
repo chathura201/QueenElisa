@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb://ul6m1ha30vfxbldzhypx:Cw3ThmkRr6XwEeAxFeV@bjlmpdf2h2l3l91fo77v-mongodb.services.clever-cloud.com:2162/bjlmpdf2h2l3l91fo77v', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
